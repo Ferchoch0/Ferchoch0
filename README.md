@@ -47,4 +47,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
+## ☕ Conectate conmigo:
+
+<br>
+
+[![@fernando-d-delvalle](https://img.icons8.com/fluency/48/000000/linkedin.png "@fernando-d-delvalle")](www.linkedin.com/in/fernando-d-delvalle) 
+[![@01153424345](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@01153424345")](tel:01153424345) 
+[![@delvalle.fernando.daniel@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@delvalle.fernando.daniel@gmail.com")](delvalle.fernando.daniel@gmail.com)
+
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
