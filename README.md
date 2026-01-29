@@ -60,7 +60,7 @@
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn - Fernando Delvalle")](https://www.linkedin.com/in/fernando-d-delvalle)
 [![Portfolio](https://img.icons8.com/fluency/48/000000/domain.png "Portfolio Web")](https://fern-portfolio-v2.netlify.app/)
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png "Email")](mailto:delvalle.fernando.daniel@gmail.com)
-[![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Teléfono")](tel:+541153424345))
+[![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Teléfono")](tel:+541153424345)
 
 <br>
 
