@@ -9,13 +9,13 @@
 <div align="justify">
   <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="30%" align="right" />
   
-  🚀 <strong>Actualmente:</strong> Desarrollador FullStack Freelance liderando proyectos de aplicaciones web y móviles. Trabajando con equipos en sistemas complejos que desafían mis límites (y me encanta).<br><br>
+  🚀 <strong>Actualmente:</strong> Desarrollador FullStack Freelance liderando proyectos de aplicaciones web <br> y móviles. Trabajando con equipos en sistemas complejos que desafían mis límites (y me encanta).<br><br>
   
-  💼 <strong>Experiencia:</strong> Apps móviles con React Native, sistemas de gestión empresarial, APIs RESTful y modernización de sistemas legacy. Liderazgo técnico de equipo de 3 developers.<br><br>
+  💼 <strong>Experiencia:</strong> Apps móviles con React Native, sistemas de gestión empresarial, APIs RESTful <br> y modernización de sistemas legacy. Liderazgo técnico de equipo de 3 developers.<br><br>
   
   🛠️ <strong>Stack principal:</strong> React • React Native • JavaScript • PHP • Node.js • MySQL<br><br>
   
-  🌱 <strong>Aprendiendo:</strong> TypeScript, Nest.js y arquitecturas escalables. Siempre buscando mejorar y enfrentar desafíos más grandes.<br><br>
+  🌱 <strong>Aprendiendo:</strong> TypeScript y arquitecturas escalables. <br> Siempre buscando mejorar y enfrentar desafíos más grandes.<br><br>
   
   🎯 <strong>Mi enfoque:</strong> Construir soluciones end-to-end que no solo funcionen, sino que sean mantenibles, escalables y con buena UX. Del diseño de arquitectura al deployment.<br><br>
   
@@ -60,7 +60,7 @@
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn - Fernando Delvalle")](https://www.linkedin.com/in/fernando-d-delvalle)
 [![Portfolio](https://img.icons8.com/fluency/48/000000/domain.png "Portfolio Web")](https://fern-portfolio-v2.netlify.app/)
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png "Email")](mailto:delvalle.fernando.daniel@gmail.com)
-[![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Teléfono")](tel:+541153424345).com)
+[![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Teléfono")](tel:+541153424345))
 
 <br>
 
